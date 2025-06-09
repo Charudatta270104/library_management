@@ -121,4 +121,8 @@ _Main UI interface for:_
 
 - Includes dialog modal support for showing feedback to the user.
 
+### Output
+
+![Demand Comparison Chart](../git%20ss/library%20management/image.png)
+
 #### [🚀 View Live Demo](https://charudatta270104.github.io/library_management/)
