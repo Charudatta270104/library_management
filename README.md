@@ -1,7 +1,7 @@
 # 📚 Library Management System
 
-```bash
-A simple yet functional Library Management System built using HTML, CSS, and JavaScript (ES Modules). This system allows users to:
+
+*A simple yet functional Library Management System built using HTML, CSS, and JavaScript (ES Modules). This system allows users to:*
 
 - Add new books with relevant details
 
@@ -12,7 +12,7 @@ A simple yet functional Library Management System built using HTML, CSS, and Jav
 - Delete books from the collection
 
 - Persist data using Local Storage
-```
+
 
 ## Project Structure
 
@@ -121,5 +121,8 @@ _Main UI interface for:_
 
 - Includes dialog modal support for showing feedback to the user.
 
+### Screenshot
+
+![Library Management](./image.png)
 
 #### [🚀 View Live Demo](https://charudatta270104.github.io/library_management/)
