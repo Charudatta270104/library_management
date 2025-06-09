@@ -121,8 +121,5 @@ _Main UI interface for:_
 
 - Includes dialog modal support for showing feedback to the user.
 
-### Image
-
-![Library Management](../git_ss/library_management/image.png)
 
 #### [🚀 View Live Demo](https://charudatta270104.github.io/library_management/)
